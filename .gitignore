@@ -10,3 +10,7 @@ artifacts/
 *.joblib
 *.pkl
 __pycache__/
+artifacts/
+*.joblib
+*.pkl
+__pycache__/
