@@ -1,4 +1,4 @@
-# CardioLearn: Cuffless BP Estimation & Uncertainty with PPG (Recruiter-Ready)
+# CardioLearn: Cuffless BP Estimation & Uncertainty with PPG
 
 **Pitch:** End-to-end, clinically-inspired ML that estimates **systolic BP (SBP)** from **PPG** waveforms + demographics, with **uncertainty** (conformal) and **fairness/robustness slices**. All data are **synthetic**.
 
